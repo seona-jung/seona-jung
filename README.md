@@ -1,3 +1,5 @@
+<p align="center"><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseona-jung&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a></p>
+
 <p align="center"><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></p>
 
 [![](https://github-readme-stats.vercel.app/api?username=seona-jung&count_private=true&show_icons=true&theme=dracula&hide=contribs,prs)](https://github.com/seona-jung/github-readme-stats)[![](https://github-readme-stats.vercel.app/api/top-langs/?username=seona-jung&layout=compact&theme=dracula)](https://github.com/seona-jung/github-readme-stats)
