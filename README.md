@@ -10,7 +10,7 @@
 Two spaces gap: &ensp;
 Four spaces gap: &emsp; -->
 
-<h1 align="center">Hello</h1>
+<!-- <h1 align="center">Hello</h1> -->
 
 <!-- <h5 align="center">I’m currently learning Web development!</h5> -->
 
