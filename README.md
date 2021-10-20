@@ -8,7 +8,7 @@
 
 **Others** &emsp;&emsp;&emsp; Git
 
-**Studying** &emsp;&emsp; TypeScript, Next.js
+<!-- **Studying** &emsp;&emsp; TypeScript, Next.js -->
 
 
 <!-- <p align="center">
