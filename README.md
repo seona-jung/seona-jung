@@ -2,9 +2,9 @@
 
 **Languages** &emsp; Javascript(ES6+), HTML, CSS(SCSS)
 
-**Front-End** &emsp;&ensp; React(hooks), Redux, styled-components
+**Front-end** &emsp;&ensp; React(hooks), Redux, styled-components
 
-**Back-End** &emsp;&ensp;&nbsp; Node.js, Express, MySQL
+**Back-end** &emsp;&ensp;&nbsp; Node.js, Express, MySQL
 
 **Others** &emsp;&emsp;&emsp; Git
 
