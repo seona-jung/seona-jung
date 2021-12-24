@@ -4,7 +4,7 @@
 
 **Front-End** &emsp;&ensp; React(hooks), Redux, styled-components
 
-**Back-End** &emsp;&ensp;&nbsp; Node.js, Express, MySQL, Sequeilize
+**Back-End** &emsp;&ensp;&nbsp; Node.js, Express, MySQL
 
 **Others** &emsp;&emsp;&emsp; Git
 
