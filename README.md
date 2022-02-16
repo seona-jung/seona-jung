@@ -1,4 +1,4 @@
-## Tech Stack
+<!-- ## Tech Stack
 
 **Languages** &emsp; Javascript(ES6+), HTML, CSS(SCSS)
 
@@ -6,7 +6,7 @@
 
 **Back-end** &emsp;&ensp;&nbsp; Node.js, MySQL
 
-**Others** &emsp;&emsp;&emsp; Git
+**Others** &emsp;&emsp;&emsp; Git -->
 
 <!-- **Studying** &emsp;&emsp; TypeScript, Next.js -->
 
